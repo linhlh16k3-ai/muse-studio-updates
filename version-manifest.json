@@ -1,19 +1,19 @@
 {
     "version":  "1.3.0",
-    "buildId":  "20261031-143326",
-    "title":  "MUSE Studio v1.3.0 - Xóa Nhanh Video Kết Quả Không Ưng Ý",
-    "publishedAt":  "2026-10-31T07:33:26.584Z",
+    "buildId":  "20261031-150249",
+    "title":  "MUSE Studio v1.3.0 - Bảng Điều Khiển Google Flow (Veo 3.1 / Omni) \u0026 Xóa Video Kết Quả",
+    "publishedAt":  "2026-10-31T08:02:49.034Z",
     "author":  "Admin HL",
     "githubRepo":  "linhlh16k3-ai/muse-studio-updates",
     "githubBranch":  "main",
     "changelog":  [
-                      "Thêm nút Xóa trực tiếp trên từng thẻ video kết quả ở mục Tạo Video Đơn (cả chế độ Dạng Lưới và Xem 1 video lớn), kèm nút Xóa nhanh toàn bộ video bị lỗi.",
-                      "Thêm tính năng Xóa từng video hoặc Chọn nhiều để xóa hàng loạt trong Kho Video Đã Tạo (Mục 5) và Tiến Trình Đang Chạy (Mục 4), tự động dọn dẹp file MP4 lưu cục bộ.",
-                      "Giữ trọn vẹn tính năng Tải ảnh vào Trợ lý AI Viết Prompt (Vision) và tự động khởi động lại máy chủ ngầm."
+                      "Tích hợp Bảng điều khiển Google Flow (Veo 3.1 / Omni 1.1 Flash) chuẩn giao diện Flow: chọn Hình ảnh/Video, Khung hình/Thành phần, 16:9/9:16, 360p/720p, 4s/6s/8s/10s, x1..x4.",
+                      "Tự động hiển thị Số tín dụng (Credit) Flow còn lại và tính chính xác số tín dụng tiêu tốn cho từng cấu hình video (VD: Omni 1.1 Flash 720p 8s x2 = 24 tín dụng).",
+                      "Thêm nút Xóa trực tiếp trên từng thẻ video kết quả ở mục Tạo Video Đơn, Kho Video và Hàng đợi."
                   ],
     "includePrompts":  true,
     "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.3.0/MUSE_Patch_v1.3.0.zip",
-    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/694714131",
+    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/694776650",
     "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.3.0",
-    "patchSizeBytes":  6419012
+    "patchSizeBytes":  6475219
 }
