@@ -1,14 +1,19 @@
 {
-  "version": "1.1.0",
-  "buildId": "20261030-141425",
-  "title": "Bản phát hành hoàn chỉnh v1.1.0",
-  "publishedAt": "2026-10-30T07:14:25.021Z",
-  "author": "Admin HL",
-  "githubRepo": "linhlh16k3-ai/muse-studio-updates",
-  "githubBranch": "main",
-  "changelog": [
-    "Cập nhật tính năng và tối ưu hệ thống."
-  ],
-  "includePrompts": true,
-  "patchSizeBytes": 5761006
+    "version":  "1.2.0",
+    "buildId":  "20261031-133326",
+    "title":  "MUSE Studio v1.2.0 - Tải Ảnh Vào Chatbot AI Viết Prompt",
+    "publishedAt":  "2026-10-31T06:33:26.832Z",
+    "author":  "Admin HL",
+    "githubRepo":  "linhlh16k3-ai/muse-studio-updates",
+    "githubBranch":  "main",
+    "changelog":  [
+                      "Bổ sung tính năng tải ảnh trực tiếp (chọn file, kéo thả hoặc Ctrl+V) vào Trợ lý AI Viết Prompt để phân tích bối cảnh, ánh sáng, sản phẩm và viết câu lệnh chuẩn cho từng ảnh.",
+                      "Hỗ trợ đính kèm tối đa 4 ảnh cùng lúc vào Chatbot AI (Gemini 2.5 Flash Vision).",
+                      "Tối ưu cơ chế Auto Update qua GitHub Releases và tự động làm mới bộ nhớ đệm trình duyệt ngay sau khi cập nhật."
+                  ],
+    "includePrompts":  true,
+    "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.2.0/MUSE_Patch_v1.2.0.zip",
+    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/694622546",
+    "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.2.0",
+    "patchSizeBytes":  6245287
 }
