@@ -13,7 +13,7 @@
                   ],
     "includePrompts":  true,
     "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.3.0/MUSE_Patch_v1.3.0.zip",
-    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/694792640",
+    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/694881673",
     "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.3.0",
     "patchSizeBytes":  6138002
 }
