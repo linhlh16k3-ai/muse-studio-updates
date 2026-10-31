@@ -1,19 +1,19 @@
 {
     "version":  "1.3.0",
-    "buildId":  "20261031-143326",
-    "title":  "MUSE Studio v1.3.0 - Xóa Nhanh Video Kết Quả Không Ưng Ý",
-    "publishedAt":  "2026-10-31T07:33:26.584Z",
+    "buildId":  "20261031-155750",
+    "title":  "Bản cập nhật v1.3.0",
+    "publishedAt":  "2026-10-31T08:57:50.491Z",
     "author":  "Admin HL",
     "githubRepo":  "linhlh16k3-ai/muse-studio-updates",
     "githubBranch":  "main",
     "changelog":  [
-                      "Thêm nút Xóa trực tiếp trên từng thẻ video kết quả ở mục Tạo Video Đơn (cả chế độ Dạng Lưới và Xem 1 video lớn), kèm nút Xóa nhanh toàn bộ video bị lỗi.",
-                      "Thêm tính năng Xóa từng video hoặc Chọn nhiều để xóa hàng loạt trong Kho Video Đã Tạo (Mục 5) và Tiến Trình Đang Chạy (Mục 4), tự động dọn dẹp file MP4 lưu cục bộ.",
-                      "Giữ trọn vẹn tính năng Tải ảnh vào Trợ lý AI Viết Prompt (Vision) và tự động khởi động lại máy chủ ngầm."
+                      "Tinh nang xoa 1 hoac nhieu video ket qua khong ung y trong Tao 1 Video, Thu Vien Video va Hang Doi Batch",
+                      "Don dep cung luc ca file MP4 tren o cung de giai phong dung luong",
+                      "Toi uu giao dien AI Chatbot Vision tai anh viet prompt"
                   ],
     "includePrompts":  true,
     "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.3.0/MUSE_Patch_v1.3.0.zip",
-    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/694881673",
+    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/694883063",
     "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.3.0",
-    "patchSizeBytes":  6138002
+    "patchSizeBytes":  6056812
 }
