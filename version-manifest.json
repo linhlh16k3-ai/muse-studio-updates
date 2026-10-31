@@ -1,0 +1,14 @@
+{
+  "version": "1.1.0",
+  "buildId": "20261030-141425",
+  "title": "Bản phát hành hoàn chỉnh v1.1.0",
+  "publishedAt": "2026-10-30T07:14:25.021Z",
+  "author": "Admin HL",
+  "githubRepo": "linhlh16k3-ai/muse-studio-updates",
+  "githubBranch": "main",
+  "changelog": [
+    "Cập nhật tính năng và tối ưu hệ thống."
+  ],
+  "includePrompts": true,
+  "patchSizeBytes": 5761006
+}
