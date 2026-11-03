@@ -1,19 +1,20 @@
 {
-    "version":  "1.4.0",
-    "buildId":  "20261102-085636",
-    "title":  "Bản cập nhật v1.4.0",
-    "publishedAt":  "2026-11-02T01:56:36.141Z",
+    "version":  "1.5.0",
+    "buildId":  "20261103-092432",
+    "title":  "Bản cập nhật v1.5.0 — Đa Luồng Chat MUSE Song Song \u0026 Tích Hợp CapCut PC",
+    "publishedAt":  "2026-11-03T02:24:32.752Z",
     "author":  "Admin HL",
     "githubRepo":  "linhlh16k3-ai/muse-studio-updates",
     "githubBranch":  "main",
     "changelog":  [
-                      "Tich hop ket noi CapCut PC: Tao Project nhap CapCut truc tiep tu video ket qua \u0026 Trinh Chinh Sua Video",
-                      "Tinh nang xoa 1 hoac nhieu video ket qua / video hong trong Tao 1 Video, Thu Vien Video va Hang Doi Batch",
-                      "Sua loi dong goi ban va .next/standalone giup cap nhat giao dien moi 100% tren may nguoi dung"
+                      "Tạo Video Hàng Loạt (Batch) mở nhiều cửa sổ chat MUSE riêng biệt chạy song song (lên tới 6 luồng cùng lúc), tự động đặt tên ảnh duy nhất chống ghi đè và chống lỗi timeout hàng đợi",
+                      "Tích hợp kết nối CapCut PC: Đẩy trực tiếp video hoàn thành hoặc danh sách clip từ Trình Chỉnh Sửa Video sang Project nháp CapCut chỉ với 1 cú nhấp",
+                      "Tính năng xóa 1 hoặc nhiều video kết quả / video lỗi trong Tạo 1 Video, Thư Viện Video và Hàng Đợi Batch",
+                      "Sửa triệt để cơ chế Cập Nhật Tự Động từ GitHub (đồng bộ cả nhân Python muse2api, lọc đường dẫn chuẩn hóa và tự khởi động lại dịch vụ ngay sau khi cài bản vá)"
                   ],
     "includePrompts":  true,
-    "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.4.0/MUSE_Patch_v1.4.0.zip",
-    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/700163558",
-    "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.4.0",
-    "patchSizeBytes":  6581171
+    "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.5.0/MUSE_Patch_v1.5.0.zip",
+    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/703960816",
+    "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.5.0",
+    "patchSizeBytes":  6728855
 }
