@@ -1,8 +1,8 @@
 {
     "version":  "1.5.0",
-    "buildId":  "20261103-092432",
+    "buildId":  "20261103-093051",
     "title":  "Bản cập nhật v1.5.0 — Đa Luồng Chat MUSE Song Song \u0026 Tích Hợp CapCut PC",
-    "publishedAt":  "2026-11-03T02:24:32.752Z",
+    "publishedAt":  "2026-11-03T02:30:51.967Z",
     "author":  "Admin HL",
     "githubRepo":  "linhlh16k3-ai/muse-studio-updates",
     "githubBranch":  "main",
@@ -14,7 +14,7 @@
                   ],
     "includePrompts":  true,
     "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.5.0/MUSE_Patch_v1.5.0.zip",
-    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/703960816",
+    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/703977648",
     "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.5.0",
-    "patchSizeBytes":  6728855
+    "patchSizeBytes":  6766499
 }
