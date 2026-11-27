@@ -1,19 +1,19 @@
 {
-    "version":  "1.5.3",
-    "buildId":  "20261127-121016",
-    "title":  "Bản cập nhật v1.5.3 — Tối Ưu Kết Xuất Concat Chuẩn FPS Gốc, Xóa Bộ Lọc Tự Động \u0026 Tự Động Ghi Đè Video Cùng Tên",
-    "publishedAt":  "2026-11-27T05:10:16.636Z",
+    "version":  "1.5.4",
+    "buildId":  "20261127-121843",
+    "title":  "Bản cập nhật v1.5.4 — Tách Biệt Hoàn Toàn 2 Luồng Tải Video Gốc Trên Web \u0026 Video Đã Ghép Concat",
+    "publishedAt":  "2026-11-27T05:18:43.135Z",
     "author":  "Admin HL",
     "githubRepo":  "linhlh16k3-ai/muse-studio-updates",
     "githubBranch":  "main",
     "changelog":  [
-                      "Xóa bộ lọc màu tự động (Vivid), chữ phụ đề tự động và chuyển cảnh mờ dần mặc định trong Concat Editor: Chỉ khi người dùng tự bấm thêm mới áp dụng lên Timeline, hỗ trợ bấm phím Delete hoặc nút [×] để gỡ bộ lọc bất kỳ lúc nào",
-                      "Tự động ghi đè (Replace) video xuất ra cùng tên dự án trong Kho Video, mục Đã Xử Lý và thư mục Downloads (không tạo trùng lặp nhiều bản cùng tên)",
-                      "Kết xuất FFmpeg giữ nguyên tốc độ khung hình gốc (24FPS / 30FPS / 60FPS) bằng libx264 High Profile giúp triệt tiêu 100% hiện tượng lặp khung hình (3:2 pulldown judder)"
+                      "Tách biệt 100% 2 luồng tải: Luồng 1 (Kết Quả Video \u0026 Kho Video Đã Tạo) chỉ hiển thị và tải trực tiếp file video gốc nguyên bản từ trên web về (giữ nguyên 100% tên gốc và chất lượng gốc, không bị trộn video Concat vào danh sách)",
+                      "Luồng 2 (Concat Editor): Lưu và tải riêng trong thư mục concat-exports và mục Đã Xử Lý nội bộ của Concat Editor, tự động ghi đè (Replace) video xuất cùng tên dự án mà không ảnh hưởng tới video gốc trên web",
+                      "Xóa bộ lọc tự động (Vivid), chữ tự động và chuyển cảnh mờ dần mặc định; kết xuất FFmpeg giữ nguyên FPS gốc (24/30/60FPS) bằng libx264 High Profile"
                   ],
     "includePrompts":  true,
-    "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.5.3/MUSE_Patch_v1.5.3.zip",
-    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/799075974",
-    "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.5.3",
-    "patchSizeBytes":  7126992
+    "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.5.4/MUSE_Patch_v1.5.4.zip",
+    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/799094519",
+    "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.5.4",
+    "patchSizeBytes":  7129214
 }
