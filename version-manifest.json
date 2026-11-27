@@ -1,8 +1,8 @@
 {
     "version":  "1.5.4",
-    "buildId":  "20261127-121843",
+    "buildId":  "20261127-131258",
     "title":  "Bản cập nhật v1.5.4 — Tách Biệt Hoàn Toàn 2 Luồng Tải Video Gốc Trên Web \u0026 Video Đã Ghép Concat",
-    "publishedAt":  "2026-11-27T05:18:43.135Z",
+    "publishedAt":  "2026-11-27T06:12:58.274Z",
     "author":  "Admin HL",
     "githubRepo":  "linhlh16k3-ai/muse-studio-updates",
     "githubBranch":  "main",
@@ -13,7 +13,7 @@
                   ],
     "includePrompts":  true,
     "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.5.4/MUSE_Patch_v1.5.4.zip",
-    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/799094519",
+    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/799229219",
     "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.5.4",
-    "patchSizeBytes":  7129214
+    "patchSizeBytes":  7129809
 }
