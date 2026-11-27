@@ -1,19 +1,19 @@
 {
-    "version":  "1.5.2",
-    "buildId":  "20261127-113857",
-    "title":  "Bản cập nhật v1.5.2 — Kết Xuất Video Full HD 30FPS Chuẩn CFR Bằng FFmpeg (Chống Giật Lag 100%)",
-    "publishedAt":  "2026-11-27T04:38:57.821Z",
+    "version":  "1.5.3",
+    "buildId":  "20261127-120445",
+    "title":  "Bản cập nhật v1.5.3 — Tối Ưu Kết Xuất Concat Chuẩn FPS Gốc, Xóa Bộ Lọc Tự Động \u0026 Tự Động Ghi Đè Video Cùng Tên",
+    "publishedAt":  "2026-11-27T05:04:45.185Z",
     "author":  "Admin HL",
     "githubRepo":  "linhlh16k3-ai/muse-studio-updates",
     "githubBranch":  "main",
     "changelog":  [
-                      "Nâng cấp bộ kết xuất Trình Chỉnh Sửa Video (Concat Editor) sang nhân FFmpeg 30FPS Constant Frame Rate (CFR) Full HD 1080×1920 (~9 Mbps): Xóa bỏ hoàn toàn hiện tượng tụt khung hình / giật lag khi xuất video ghép nối, nhanh gấp 6-8 lần thời gian thực",
-                      "Tối ưu hóa luồng vẽ Canvas Preview \u0026 loại bỏ thao tác sao chép kép khung hình 1080p ở mỗi tick 16ms giúp xem trước và chỉnh sửa mượt mà",
-                      "Tích hợp hệ thống Đăng nhập \u0026 Quản lý phiên HL ID trung tâm (hoanglinh.io.vn), mở 6 luồng chat MUSE song song và đồng bộ trực tiếp sang Project nháp CapCut PC"
+                      "Xóa bộ lọc màu tự động (Vivid), chữ phụ đề tự động và chuyển cảnh mờ dần mặc định trong Concat Editor: Chỉ khi người dùng tự bấm thêm mới áp dụng lên Timeline, hỗ trợ bấm phím Delete hoặc nút [×] để gỡ bộ lọc bất kỳ lúc nào",
+                      "Tự động ghi đè (Replace) video xuất ra cùng tên dự án trong Kho Video, mục Đã Xử Lý và thư mục Downloads (không tạo trùng lặp nhiều bản cùng tên)",
+                      "Kết xuất FFmpeg giữ nguyên tốc độ khung hình gốc (24FPS / 30FPS / 60FPS) bằng libx264 High Profile giúp triệt tiêu 100% hiện tượng lặp khung hình (3:2 pulldown judder)"
                   ],
     "includePrompts":  true,
-    "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.5.2/MUSE_Patch_v1.5.2.zip",
-    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/798993035",
-    "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.5.2",
-    "patchSizeBytes":  7053357
+    "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.5.3/MUSE_Patch_v1.5.3.zip",
+    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/799061359",
+    "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.5.3",
+    "patchSizeBytes":  7128167
 }
