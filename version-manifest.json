@@ -1,8 +1,8 @@
 {
     "version":  "1.5.3",
-    "buildId":  "20261127-120445",
+    "buildId":  "20261127-121016",
     "title":  "Bản cập nhật v1.5.3 — Tối Ưu Kết Xuất Concat Chuẩn FPS Gốc, Xóa Bộ Lọc Tự Động \u0026 Tự Động Ghi Đè Video Cùng Tên",
-    "publishedAt":  "2026-11-27T05:04:45.185Z",
+    "publishedAt":  "2026-11-27T05:10:16.636Z",
     "author":  "Admin HL",
     "githubRepo":  "linhlh16k3-ai/muse-studio-updates",
     "githubBranch":  "main",
@@ -13,7 +13,7 @@
                   ],
     "includePrompts":  true,
     "patchDownloadUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/download/v1.5.3/MUSE_Patch_v1.5.3.zip",
-    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/799061359",
+    "releaseAssetApiUrl":  "https://api.github.com/repos/linhlh16k3-ai/muse-studio-updates/releases/assets/799075974",
     "releaseHtmlUrl":  "https://github.com/linhlh16k3-ai/muse-studio-updates/releases/tag/v1.5.3",
-    "patchSizeBytes":  7128167
+    "patchSizeBytes":  7126992
 }
